@@ -1,0 +1,195 @@
+
+#EXTM3U tvg-url="https://dl.dropboxusercontent.com/s/xg6c7av61p1jdoq/epg.xml.gz;https://raw.githubusercontent.com/harrygg/EPG/master/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.kodibg.org/dl.php"
+#EXTM3U x-tvg-url="https://prikachi.net/image/"
+#EXTM3U
+#EXTINF:-1 tvg-id="bnt1.bg" tvg-name="bnt1"tvg-id=bnt1 tvg-logo="https://prikachi.net/images/bnt-1.png" group-title="LIVE BULGARIA",Bnt1
+http://45.12.1.14:80/JeticBd1/he9CBq33/11118
+#EXTINF:-1 tvg-id="bnt2.bg" tvg-name="bnt2"tvg-id=bnt2 tvg-logo="https://prikachi.net/images/bnt-2.png" group-title="LIVE BULGARIA",Bnt2
+http://45.12.1.14:80/JeticBd1/he9CBq33/28208
+#EXTINF:-1 tvg-id="bnt3.bg" tvg-name="bnt3"tvg-id=bnt3 tvg-logo="https://prikachi.net/images/bnt-3.png" group-title="LIVE BULGARIA",Bnt3
+http://45.12.1.14:80/JeticBd1/he9CBq33/28209
+#EXTINF:-1 tvg-id="bnt4.bg" tvg-name="bnt4"tvg-id=bnt4 tvg-logo="https://prikachi.net/images/bnt-4.png" group-title="LIVE BULGARIA",Bnt4
+http://45.12.1.14:80/JeticBd1/he9CBq33/28210
+#EXTINF:-1 tvg-id="btv.bg" tvg-name="Btv"tvg-id=Btv tvg-logo="https://prikachi.net/images/btv.png" group-title="LIVE BULGARIA",Btv
+http://45.12.1.14:80/JeticBd1/he9CBq33/11124
+#EXTINF:-1 tvg-id="btvaction.bg" tvg-name="BtvAction"tvg-id=BtvAction tvg-logo="https://prikachi.net/images/btv-action.png" group-title="LIVE BULGARIA",BtvAction
+http://45.12.1.14:80/JeticBd1/he9CBq33/11121
+#EXTINF:-1 tvg-id="Btvcinema.bg" tvg-name="BtvCinema"tvg-id=BtvCinema tvg-logo="https://prikachi.net/images/btv-cinema.png" group-title="LIVE BULGARIA",BtvCinema
+http://45.12.1.14:80/JeticBd1/he9CBq33/11122
+#EXTINF:-1 tvg-id="Btvcomedy.bg" tvg-name="BtvComedy"tvg-id=BtvComedy tvg-logo="https://prikachi.net/images/btv-comedy.png" group-title="LIVE BULGARIA",BtvComedy
+http://45.12.1.14:80/JeticBd1/he9CBq33/11123
+#EXTINF:-1 tvg-id="btvladytv.bg" tvg-name="BtvLady"tvg-id=BtvLady tvg-logo="https://prikachi.net/images/btv-lady.png" group-title="LIVE BULGARIA",BtvLady
+http://45.12.1.14:80/JeticBd1/he9CBq33/11125
+#EXTINF:-1 tvg-id="nova.bg" tvg-name="Nova"tvg-id=Nova tvg-logo="https://prikachi.net/images/nova.png" group-title="LIVE BULGARIA",Nova
+http://45.12.1.14:80/JeticBd1/he9CBq33/11145
+#EXTINF:-1 tvg-id="NovaNews" tvg-name="NovaNews"tvg-id=NovaNews tvg-logo="https://prikachi.net/images/nova-news.png" group-title="LIVE BULGARIA",NovaNews
+http://45.12.1.14:80/JeticBd1/he9CBq33/11141
+#EXTINF:-1 tvg-id="kinonova.bg" tvg-name="KinoNova"tvg-id=KinoNova tvg-logo="https://prikachi.net/images/kino-nova.png" group-title="LIVE BULGARIA",KinoNova
+http://45.12.1.14:80/JeticBd1/he9CBq33/11142
+#EXTINF:-1 tvg-id="78TV" tvg-name="7/8TV"tvg-id=7/8TV tvg-logo="https://prikachi.net/images/78.png" group-title="LIVE BULGARIA",7/8TV
+http://45.12.1.14:80/JeticBd1/he9CBq33/37956
+#EXTINF:-1 tvg-id="TVPlus" tvg-name="Tv+"tvg-id=Tv+ tvg-logo="https://prikachi.net/images/TV.png" group-title="LIVE BULGARIA",Tv+
+http://45.12.1.14:80/JeticBd1/he9CBq33/11152
+#EXTINF:-1 tvg-id="tveurope" tvg-name="Evropa"tvg-id=Evropa tvg-logo="https://prikachi.net/images/evropa.png" group-title="LIVE BULGARIA",Evropa
+http://45.12.1.14:80/JeticBd1/he9CBq33/28206
+#EXTINF:-1 tvg-id="bloomberg.bg" tvg-name="Bloomberg"tvg-id=Bloomberg tvg-logo="https://prikachi.net/images/bloomberg.png" group-title="LIVE BULGARIA",Bloomberg
+http://45.12.1.14:80/JeticBd1/he9CBq33/44188
+#EXTINF:-1 tvg-id="diema.bg" tvg-name="Diema"tvg-id=Diema tvg-logo="https://prikachi.net/images/diema.png" group-title="LIVE BULGARIA",Diema
+http://45.12.1.14:80/JeticBd1/he9CBq33/11132
+#EXTINF:-1 tvg-id="diemafamily.bg" tvg-name="DiemaFamily"tvg-id=DiemaFamily tvg-logo="https://prikachi.net/images/diema-family.png" group-title="LIVE BULGARIA",DiemaFamily
+http://45.12.1.14:80/JeticBd1/he9CBq33/11129
+#EXTINF:-1 tvg-id="alfa.bg" tvg-name="Alfa"tvg-id=Alfa tvg-logo="https://prikachi.net/images/alfa.jpg" group-title="LIVE BULGARIA",Alfa
+http://45.12.1.14:80/JeticBd1/he9CBq33/44183
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="Hbo"tvg-id=Hbo tvg-logo="https://prikachi.net/images/hbo.png" group-title="LIVE BULGARIA",Hbo
+http://45.12.1.14:80/JeticBd1/he9CBq33/11150
+#EXTINF:-1 tvg-id="hbo2.bg" tvg-name="Hbo2"tvg-id=Hbo2 tvg-logo="https://prikachi.net/images/hbo-2.png" group-title="LIVE BULGARIA",Hbo2
+http://45.12.1.14:80/JeticBd1/he9CBq33/44173
+#EXTINF:-1 tvg-id="hbo3.bg" tvg-name="Hbo3"tvg-id=Hbo3 tvg-logo="https://prikachi.net/images/hbo-3.png" group-title="LIVE BULGARIA",Hbo3
+http://45.12.1.14:80/JeticBd1/he9CBq33/44174
+#EXTINF:-1 tvg-id="amc.bg" tvg-name="Amc"tvg-id=Amc tvg-logo="https://prikachi.net/images/amc.png" group-title="LIVE BULGARIA",Amc
+http://45.12.1.14:80/JeticBd1/he9CBq33/44184
+#EXTINF:-1 tvg-id="fox.bg" tvg-name="Fox"tvg-id=Fox tvg-logo="https://prikachi.net/images/fox.png" group-title="LIVE BULGARIA",Fox
+http://45.12.1.14:80/JeticBd1/he9CBq33/28213
+#EXTINF:-1 tvg-id="foxcrime.bg" tvg-name="FoxCrime"tvg-id=FoxCrime tvg-logo="https://prikachi.net/images/fox-crime.png" group-title="LIVE BULGARIA",FoxCrime
+http://45.12.1.14:80/JeticBd1/he9CBq33/28211
+#EXTINF:-1 tvg-id="foxlife.bg" tvg-name="FoxLife"tvg-id=FoxLife tvg-logo="https://prikachi.net/images/fox-life.png" group-title="LIVE BULGARIA",FoxLife
+http://45.12.1.14:80/JeticBd1/he9CBq33/28212
+#EXTINF:-1 tvg-id="axn.bg" tvg-name="Axn"tvg-id=Axn tvg-logo="https://prikachi.net/images/Axn.png" group-title="LIVE BULGARIA",Axn
+http://45.12.1.14:80/JeticBd1/he9CBq33/44185
+#EXTINF:-1 tvg-id="AXNBlack" tvg-name="AxnBlack"tvg-id=AxnBlack tvg-logo="https://prikachi.net/images/Axn-Black.png" group-title="LIVE BULGARIA",AxnBlack
+http://45.12.1.14:80/JeticBd1/he9CBq33/44186
+#EXTINF:-1 tvg-id="AXNWhite.bg" tvg-name="AXNWhite"tvg-id=AXNWhite tvg-logo="https://picon-13398.kxcdn.com/axnwhite.jpg"  group-title="LIVE BULGARIA",Axn White
+http://45.12.1.14:80/JeticBd1/he9CBq33/13418
+#EXTINF:-1 tvg-id="epicdrama.bg" tvg-name="EpicDrama"tvg-id=EpicDrama tvg-logo="https://prikachi.net/images/epic-drama.png" group-title="LIVE BULGARIA",EpicDrama
+http://45.12.1.14:80/JeticBd1/he9CBq33/44170
+#EXTINF:-1 tvg-id="cinemax.bg" tvg-name="Cinemax"tvg-id=Cinemax tvg-logo="https://prikachi.net/images/cinemax.png" group-title="LIVE BULGARIA",Cinemax
+http://45.12.1.14:80/JeticBd1/he9CBq33/44166
+#EXTINF:-1 tvg-id="cinemax2.bg" tvg-name="Cinemax2"tvg-id=Cinemax2 tvg-logo="https://prikachi.net/images/cinemax-2.png" group-title="LIVE BULGARIA",Cinemax2
+http://45.12.1.14:80/JeticBd1/he9CBq33/44167
+#EXTINF:-1 tvg-id="FilmBoXtraHD" tvg-name="FilmBoXtraHD"tvg-id=FilmBoXtraHD tvg-logo="https://prikachi.net/images/film-box.png" group-title="LIVE BULGARIA",FilmBoxExtra
+http://45.12.1.14:80/JeticBd1/he9CBq33/11139
+#EXTINF:-1 tvg-id="DocuBox" tvg-name="DocuBox"tvg-id=DocuBox tvg-logo="https://prikachi.net/images/docu-box.png" group-title="LIVE BULGARIA",DocuBox
+http://45.12.1.14:80/JeticBd1/he9CBq33/44169
+#EXTINF:-1 tvg-id="cinebox" tvg-name="cinebox"tvg-id=cinebox tvg-logo="https://prikachi.net/images/Cine-Box.png" group-title="LIVE BULGARIA",CineBox
+http://45.12.1.14:80/JeticBd1/he9CBq33/11126
+#EXTINF:-1 tvg-id="actionbox" tvg-name="ActionBox"tvg-id=ActionBox tvg-logo="https://prikachi.net/images/Action-Box.png" group-title="LIVE BULGARIA",ActionBox
+http://45.12.1.14:80/JeticBd1/he9CBq33/11115
+#EXTINF:-1 tvg-id="comedybox" tvg-name="ComedyBox"tvg-id=ComedyBox tvg-logo="https://prikachi.net/images/Comedy-Box.png" group-title="LIVE BULGARIA",ComedyBox
+http://45.12.1.14:80/JeticBd1/he9CBq33/11127
+#EXTINF:-1 tvg-id="wness" tvg-name="WnessTV"tvg-id=WnessTV tvg-logo="https://prikachi.net/images/wness.png" group-title="LIVE BULGARIA",WnessTV
+http://45.12.1.14:80/JeticBd1/he9CBq33/23948
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC"tvg-id=TLC tvg-logo="https://prikachi.net/images/tlc.png" group-title="LIVE BULGARIA",Tlc
+http://45.12.1.14:80/JeticBd1/he9CBq33/27133
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DiscoveryChannel"tvg-id=DiscoveryChannel tvg-logo="https://prikachi.net/images/discovery.png" group-title="LIVE BULGARIA",DiscoveryChannel
+http://45.12.1.14:80/JeticBd1/he9CBq33/27129
+#EXTINF:-1 tvg-id="NatGeo" tvg-name="NationalGeographic"tvg-id=NationalGeographic tvg-logo="https://prikachi.net/images/national-geo.png" group-title="LIVE BULGARIA",NationalGeographic
+http://45.12.1.14:80/JeticBd1/he9CBq33/28207
+#EXTINF:-1 tvg-id="NatGeoWild" tvg-name="NationalGeographicWild" tvg-logo="https://prikachi.net/images/nat-geo-wild.png" group-title="LIVE BULGARIA",NationalGeographicWild
+http://45.12.1.14:80/JeticBd1/he9CBq33/11280
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature"tvg-id=LoveNature tvg-logo="https://prikachi.net/images/love-nature.png" group-title="LIVE BULGARIA",LoveNature
+http://45.12.1.14:80/JeticBd1/he9CBq33/11137
+#EXTINF:-1 tvg-id="ID" tvg-name="ID"tvg-id=ID tvg-logo="https://prikachi.net/images/id.png" group-title="LIVE BULGARIA",InvestigationDiscovery
+http://45.12.1.14:80/JeticBd1/he9CBq33/27019
+#EXTINF:-1 tvg-id="CI" tvg-name="CI"tvg-id=CI tvg-logo="https://prikachi.net/images/crime.png" group-title="LIVE BULGARIA",Crime+Investigation
+http://45.12.1.14:80/JeticBd1/he9CBq33/44189
+#EXTINF:-1 tvg-id="discoveryscience.bg" tvg-name="DiscoveryScience"tvg-id=DiscoveryScience tvg-logo="https://prikachi.net/images/Discovery-science.png" group-title="LIVE BULGARIA",DiscoveryScience
+http://45.12.1.14:80/JeticBd1/he9CBq33/44168
+#EXTINF:-1 tvg-id="history.bg" tvg-name="History"tvg-id=History tvg-logo="https://prikachi.net/images/history.png" group-title="LIVE BULGARIA",History
+http://45.12.1.14:80/JeticBd1/he9CBq33/44175
+#EXTINF:-1 tvg-id="viasathistory.bg" tvg-name="ViasatHistory"tvg-id=ViasatHistory tvg-logo="https://prikachi.net/images/viasat-history.png" group-title="LIVE BULGARIA",ViasatHistory
+http://45.12.1.14:80/JeticBd1/he9CBq33/44176
+#EXTINF:-1 tvg-id="ViasatExplorer" tvg-name="ViasatExplorer"tvg-id=ViasatExplorer tvg-logo="https://prikachi.net/images/viasat-explorer.png" group-title="LIVE BULGARIA",ViasatExplore
+http://45.12.1.14:80/JeticBd1/he9CBq33/44686
+#EXTINF:-1 tvg-id="viasatnature.bg" tvg-name="ViasatNature"tvg-id=ViasatNature tvg-logo="https://prikachi.net/images/viasat-nature.png" group-title="LIVE BULGARIA",ViasatNature
+http://45.12.1.14:80/JeticBd1/he9CBq33/44687
+#EXTINF:-1 tvg-id="wildtv.bg" tvg-name="WildTV"tvg-id=WildTV tvg-logo="https://prikachi.net/images/Wild.jpg" group-title="LIVE BULGARIA",WildTV
+http://45.12.1.14:80/JeticBd1/he9CBq33/44182
+#EXTINF:-1 tvg-id="24Kitchen.bg" tvg-name="24Kitchen"tvg-id=24Kitchen tvg-logo="https://prikachi.net/images/24-kitchen.png" group-title="LIVE BULGARIA",24Kitchen
+http://45.12.1.14:80/JeticBd1/he9CBq33/44164
+#EXTINF:-1 tvg-id="FoodNetworkHD" tvg-name="FoodNetworkHD"tvg-id=FoodNetworkHD tvg-logo="https://prikachi.net/images/food-network.png" group-title="LIVE BULGARIA",FoodNetwork
+http://45.12.1.14:80/JeticBd1/he9CBq33/44172
+#EXTINF:-1 tvg-id="outdoor.bg" tvg-name="Outdoor"tvg-id=Outdoor tvg-logo="https://prikachi.net/images/outdor.png" group-title="LIVE BULGARIA",Outdoor
+http://45.12.1.14:80/JeticBd1/he9CBq33/44177
+#EXTINF:-1 tvg-id="travel.bg" tvg-name="Travel"tvg-id=Travel tvg-logo="https://prikachi.net/images/travel-hd.png" group-title="LIVE BULGARIA",Travel
+http://45.12.1.14:80/JeticBd1/he9CBq33/30026
+#EXTINF:-1 tvg-id="HobbyTV" tvg-name="HobbyTV"tvg-id=HobbyTV tvg-logo="https://prikachi.net/images/Hobi.png" group-title="LIVE BULGARIA",HobbyTV
+http://45.12.1.14:80/JeticBd1/he9CBq33/11140
+#EXTINF:-1 tvg-id="HobbyLovHD" tvg-name="HobbyLovHD"tvg-id=HobbyLovHD tvg-logo="https://prikachi.net/images/Hobby-Lov.jpg" group-title="LIVE BULGARIA",HobbyLov
+http://45.12.1.14:80/JeticBd1/he9CBq33/11138
+#EXTINF:-1 tvg-id="cartoonnetwork.bg" tvg-name="CartoonNetwork"tvg-id=CartoonNetwork tvg-logo="https://prikachi.net/images/cartoon-net.png" group-title="KIDS",CartoonNetwork
+http://45.12.1.14:80/JeticBd1/he9CBq33/11146
+#EXTINF:-1 tvg-id="ekids.bg" tvg-name="Ekids"tvg-id=Ekids tvg-logo="https://prikachi.net/images/ekids.jpg" group-title="KIDS",Ekids
+http://45.12.1.14:80/JeticBd1/he9CBq33/44684
+#EXTINF:-1 tvg-id="Disney" tvg-name="DisneyChannel"tvg-id=DisneyChannel tvg-logo="https://prikachi.net/images/Disney.png" group-title="KIDS",DisneyChannel
+http://45.12.1.14:80/JeticBd1/he9CBq33/44681
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="Nicktoons"tvg-id=Nicktoons tvg-logo="https://prikachi.net/images/nicktoons.jpg" group-title="KIDS",Nicktoons
+http://45.12.1.14:80/JeticBd1/he9CBq33/44682
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon"tvg-id=Nickelodeon tvg-logo="https://prikachi.net/images/nickelodeon.png" group-title="KIDS",Nickelodeon
+http://45.12.1.14:80/JeticBd1/he9CBq33/44683
+#EXTINF:-1 tvg-id="thisisbg" tvg-name="This is Bulgariq"tvg-id=This is Bulgariq tvg-logo="https://prikachi.net/images/This-is-Bulgaria.png" group-title="LIVE BULGARIA",This is Bulgariq HD
+http://45.12.1.14:80/JeticBd1/he9CBq33/44180
+#EXTINF:-1 tvg-id="novasport.bg" tvg-name="NovaSport"tvg-id=NovaSport tvg-logo="https://prikachi.net/images/nova-sport.png" group-title="SPORT",NovaSport
+http://45.12.1.14:80/JeticBd1/he9CBq33/11144
+#EXTINF:-1 tvg-id="diemasport.bg" tvg-name="DiemaSport"tvg-id=DiemaSport tvg-logo="https://prikachi.net/images/diema-sport.png" group-title="SPORT",DiemaSport
+http://45.12.1.14:80/JeticBd1/he9CBq33/11131
+#EXTINF:-1 tvg-id="diemasport2.bg" tvg-name="DiemaSport2"tvg-id=DiemaSport2 tvg-logo="https://prikachi.net/images/diema-sport-2.png" group-title="SPORT",DiemaSport2
+http://45.12.1.14:80/JeticBd1/he9CBq33/11130
+#EXTINF:-1 tvg-id="diemasport3.bg" tvg-name="DiemaSport3"tvg-id=DiemaSport3 tvg-logo="https://prikachi.net/images/Diema-Sport-3.jpg" group-title="SPORT",DiemaSport3
+http://45.12.1.14:80/JeticBd1/he9CBq33/84002
+#EXTINF:-1 tvg-id="ring.bg" tvg-name="Ring"tvg-id=Ring tvg-logo="https://prikachi.net/images/ring.png" group-title="LIVE BULGARIA",Ring
+http://45.12.1.14:80/JeticBd1/he9CBq33/44178
+#EXTINF:-1 tvg-id="maxsport1.bg" tvg-name="MaxSport1"tvg-id=MaxSport1 tvg-logo="https://prikachi.net/images/max-sport-1-hd.png" group-title="SPORT",MaxSport1
+http://45.12.1.14:80/JeticBd1/he9CBq33/23442
+#EXTINF:-1 tvg-id="maxsport2.bg" tvg-name="MaxSport2"tvg-id=MaxSport2 tvg-logo="https://prikachi.net/images/max-sport-2-hd.png" group-title="SPORT",MaxSport2
+http://45.12.1.14:80/JeticBd1/he9CBq33/23443
+#EXTINF:-1 tvg-id="maxsport3.bg" tvg-name="MaxSport3"tvg-id=MaxSport3 tvg-logo="https://prikachi.net/images/max-sport-3-hd.png" group-title="SPORT",MaxSport3
+http://45.12.1.14:80/JeticBd1/he9CBq33/26756
+#EXTINF:-1 tvg-id="maxsport4.bg" tvg-name="MaxSport4"tvg-id=MaxSport4 tvg-logo="https://prikachi.net/images/max-sport-4-hd.png" group-title="SPORT",MaxSport4
+http://45.12.1.14:80/JeticBd1/he9CBq33/28547
+#EXTINF:-1 tvg-id="eurosport1.bg" tvg-name="Eurosport1"tvg-id=Eurosport1 tvg-logo="https://prikachi.net/images/eurosport-1.png" group-title="LIVE BULGARIA",Eurosport1
+http://45.12.1.14:80/JeticBd1/he9CBq33/28204
+#EXTINF:-1 tvg-id="eurosport2.bg" tvg-name="Eurosport2"tvg-id=Eurosport2 tvg-logo="https://prikachi.net/images/eurosport-2.png" group-title="SPORT",Eurosport2
+http://45.12.1.14:80/JeticBd1/he9CBq33/28205
+#EXTINF:-1 tvg-id="sportaltv.bg" tvg-name="SportalTV"tvg-id=SportalTV tvg-logo="https://prikachi.net/images/sportal.png" group-title="SPORT",SportalTV
+http://45.12.1.14:80/JeticBd1/he9CBq33/44179
+#EXTINF:-1 tvg-id="TraceSportStars" tvg-name="TraceSportStars"tvg-id=TraceSportStars tvg-logo="https://prikachi.net/images/Trace-Sport-Stars.png" group-title="SPORT",TraceSportStars
+http://45.12.1.14:80/JeticBd1/he9CBq33/44181
+#EXTINF:-1 tvg-id="BoxTV" tvg-name="BoxTV"tvg-id=BoxTV tvg-logo="https://prikachi.net/images/Box.png" group-title="LIVE BULGARIA",BoxTV
+http://45.12.1.14:80/JeticBd1/he9CBq33/11120
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg" tvg-name="Discovery Channel BG"tvg-id=Discovery Channel BG tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="LIVE BULGARIA",Discovery Channel BG
+http://45.12.1.14:80/JeticBd1/he9CBq33/11119
+#EXTINF:-1 tvg-id="b1bbox" tvg-name="B1BAction"tvg-id=B1BAction tvg-logo="https://prikachi.net/images/b1b.png" group-title="LIVE BULGARIA",B1BAction
+http://45.12.1.14:80/JeticBd1/he9CBq33/11148
+#EXTINF:-1 tvg-id="fightbox.bg" tvg-name="Fightbox"tvg-id=Fightbox tvg-logo="https://prikachi.net/images/fight-box.png" group-title="LIVE BULGARIA",Fightbox
+http://45.12.1.14:80/JeticBd1/he9CBq33/44171
+#EXTINF:-1 tvg-id="AutoMotorSport" tvg-name="AutoMotorSport"tvg-id=AutoMotorSport tvg-logo="https://prikachi.net/images/auto-moto-sport.png" group-title="SPORT",AutoMotorSportHD
+http://45.12.1.14:80/JeticBd1/he9CBq33/44165
+#EXTINF:-1 tvg-id="thevoice.bg" tvg-name="TheVoice"tvg-id=TheVoice tvg-logo="https://prikachi.net/images/the-voice.jpg" group-title="LIVE BULGARIA",TheVoice
+http://45.12.1.14:80/JeticBd1/he9CBq33/11151
+#EXTINF:-1 tvg-id="bgmusicchannel.bg" tvg-name="BgMusicChannel"tvg-id=BgMusicChannel tvg-logo="https://prikachi.net/images/bg-music.png" group-title="LIVE BULGARIA",BgMusicChannel
+http://45.12.1.14:80/JeticBd1/he9CBq33/44187
+#EXTINF:-1 tvg-id="magictv.bg" tvg-name="Magictv"tvg-id=Magictv tvg-logo="https://prikachi.net/images/magic.png" group-title="LIVE BULGARIA",Magictv
+http://45.12.1.14:80/JeticBd1/he9CBq33/11143
+#EXTINF:-1 tvg-id="city.bg" tvg-name="City"tvg-id=City tvg-logo="https://prikachi.net/images/city.png" group-title="LIVE BULGARIA",City
+http://45.12.1.14:80/JeticBd1/he9CBq33/11135
+#EXTINF:-1 tvg-id="Balkanika" tvg-name="BalkanikaMusic"tvg-id=BalkanikaMusic tvg-logo="https://prikachi.net/images/Balkanika.png" group-title="LIVE BULGARIA",BalkanikaMusic
+http://45.12.1.14:80/JeticBd1/he9CBq33/2024
+#EXTINF:-1 tvg-id="planetafolk.bg" tvg-name="PlanetaFolk"tvg-id=PlanetaFolk tvg-logo="https://prikachi.net/images/planeta-folk.jpg" group-title="LIVE BULGARIA",PlanetaFolk
+http://45.12.1.14:80/JeticBd1/he9CBq33/44688
+#EXTINF:-1 tvg-id="" tvg-name="Fen Folk BG"tvg-id=Fen Folk BG tvg-logo="https://picon-13398.kxcdn.com/fenfolkbg.jpg" group-title="LIVE BULGARIA",Fen Folk BG
+http://45.12.1.14:80/JeticBd1/he9CBq33/44685
+#EXTINF:-1 tvg-id="planeta.bg" tvg-name="Planeta"tvg-id=Planeta tvg-logo="https://prikachi.net/images/planeta.png" group-title="LIVE BULGARIA",Planeta
+http://45.12.1.14:80/JeticBd1/he9CBq33/11147
+#EXTINF:-1 tvg-id="fentv.bg" tvg-name="FenTV"tvg-id=FenTV tvg-logo="https://prikachi.net/images/Fentv.png" group-title="LIVE BULGARIA",FenTV
+http://45.12.1.14:80/JeticBd1/he9CBq33/11134
+#EXTINF:-1 tvg-name="Tom And Jerry 24/7" tvg-logo="https://picon-13398.kxcdn.com/tomandjerry247.jpg"  group-title="KIDS",Tom And Jerry
+http://45.12.1.14:80/JeticBd1/he9CBq33/40823
+#EXTINF:-1 tvg-name="Tom And Jerry Kids 24/7" tvg-logo="https://picon-13398.kxcdn.com/tomandjerrykids247.jpg"  group-title="KIDS",Tom And Jerry Kids
+http://45.12.1.14:80/JeticBd1/he9CBq33/29151
+#EXTINF:-1 tvg-name="Tom And Jerry Show 24/7 US" tvg-logo="https://picon-13398.kxcdn.com/tomandjerryshow247.jpg" group-title="KIDS",Tom And Jerry Show
+http://45.12.1.14:80/JeticBd1/he9CBq33/40824
+#EXTINF:-1 tvg-name="The Pink Panther 24/7" tvg-logo="https://picon-13398.kxcdn.com/pinkpanther247exyu.jpg"  group-title="KIDS",The Pink Panther
+http://45.12.1.14:80/JeticBd1/he9CBq33/40825
+#EXTINF:-1 tvg-name="Looney Tunes 24/7" tvg-logo="https://picon-13398.kxcdn.com/looneytunes247.jpg"  group-title="KIDS",Looney Tunes
+http://45.12.1.14:80/JeticBd1/he9CBq33/40827
